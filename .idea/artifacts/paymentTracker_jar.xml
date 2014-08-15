@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="paymentTracker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/paymentTracker_jar</output-path>
+    <root id="archive" name="PaymentTracker.jar">
+      <element id="module-output" name="PaymentTracker" />
+    </root>
+  </artifact>
+</component>
